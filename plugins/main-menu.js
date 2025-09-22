@@ -150,7 +150,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 
     let pp = 'https://cdn.russellxz.click/9186a684.mp4'
     await conn.sendMessage(m.chat, {
-  video: { url: 'https://cdn.russellxz.click/88b6ecde.mp4' },
+  video: { url: 'https://cdn.russellxz.click/3a12a1ad.mp4' },
   caption: text.trim(),
   gifPlayback: true
 }, { quoted: m })
