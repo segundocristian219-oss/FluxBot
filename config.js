@@ -28,19 +28,19 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `𝑭𝒂𝒃𝒙𝑺𝒂𝒊`
-global.author = '{\n "𝗕𝗼𝘁": {\n   "name": "𝑭𝒂𝒃𝒙𝑺𝒂𝒊",\n     "author": "𝐶𝑅𝐼𝑆𝑇𝐼𝐴𝑁",\n   "status_bot": "active"\n }\n}'
-global.wait = '𝑭𝒂𝒃𝒙𝑺𝒂𝒊'
-global.botname = '𝑭𝒂𝒃𝒙𝑺𝒂𝒊'
-global.textbot = `𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 de 𝑭𝒂𝒃𝒙𝑺𝒂𝒊 ☕`
+global.packname = `𝓓𝓪𝓷𝓷 𝓑𝓸𝓽`
+global.author = '{\n "𝗕𝗼𝘁": {\n   "name": "𝓓𝓪𝓷𝓷 𝓑𝓸𝓽",\n     "author": "",\n 𝓓𝓪𝓷𝓷 "status_bot": "active"\n }\n}'
+global.wait = '𝓓𝓪𝓷𝓷 𝓑𝓸𝓽'
+global.botname = '𝓓𝓪𝓷𝓷 𝓑𝓸𝓽'
+global.textbot = `𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 de la 𝓓𝓪𝓷𝓷 𝓑𝓸𝓽`
 global.listo = '𝗙𝗶𝗻𝗮𝗹𝗶𝘇𝗮𝗱𝗼 ☕'
-global.namechannel = '𝑭𝒂𝒃𝒙𝑺𝒂𝒊 ☕'
+global.namechannel = '𝓓𝓪𝓷𝓷 𝓑𝓸𝓽 ☕'
 global.baileys = '@whiskeysockets/baileys'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.catalogo = 'https://files.catbox.moe/ntyp5r.jpg'
-global.miniurl = 'https://files.catbox.moe/ntyp5r.jpg'
+global.catalogo = 'https://cdn.russellxz.click/ef01e7ac.jpeg'
+global.miniurl = 'https://cdn.russellxz.click/ef01e7ac.jpeg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
